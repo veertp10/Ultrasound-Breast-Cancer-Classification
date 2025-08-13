@@ -45,10 +45,3 @@ It contains three categories:
 
 ---
 
-## 🚀 How to Run
-
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/<your-username>/ultrasound-breast-cancer-classification.git
-cd ultrasound-breast-cancer-classification
-
